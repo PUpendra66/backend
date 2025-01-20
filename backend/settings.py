@@ -62,7 +62,7 @@ CORS_ALLOWED_ORIGINS = [
     
     "https://frontend-p102.onrender.com" ,
 ]
-CORS_ALLOW_METHODS = ["GET", "POST"]
+CORS_ALLOW_METHODS = True
 
 ROOT_URLCONF = 'backend.urls'
 
