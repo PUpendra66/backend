@@ -60,7 +60,7 @@ MIDDLEWARE = [
 ]
 CORS_ALLOWED_ORIGINS = [
     
-    "https://frontend-p102.onrender.com" ,
+    "https://frontend-w4cl.onrender.com",
 ]
 CORS_ALLOW_METHODS = True
 
